@@ -25,15 +25,15 @@ Designed for **SOC Analysts, Cybersecurity Analysts, and GRC roles** entering We
 ---
 
 ## 📂 Repository Structure
-- 📄 README.md
-- 📄 scope.md
-- 📄 incident-classification.md
-- 📄 detection-and-analysis.md
-- 📄 containment.md
-- 📄 recovery.md
-- 📄 communication-plan.md
-- 📄 lessons-learned.md
-- 📄 disclaimer.md
+- [README.md](README.md)
+- [Scope](scope.md)
+- [Incident Classification](incident-classification.md)
+- [Detection & Analysis](detection-and-analysis.md)
+- [Containment](containment.md)
+- [Recovery](recovery.md)
+- [Communication Plan](communication-plan.md)
+- [Lessons Learned](lessons-learned.md)
+- [Disclaimer](disclaimer.md)
 
 ---
 
